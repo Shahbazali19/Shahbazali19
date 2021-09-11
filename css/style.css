@@ -1660,9 +1660,8 @@ select.portfolio-filter-mobile {
 }
 
 .scroll-down {
-  nmargin 10px;
+  margin 10px;
   position: absolute;
-  bottom: 40px;
   left: 0;
   width: 100%;
   z-index: 1;
